@@ -7,14 +7,14 @@ High spectrum image deconvolution
 
 ### 圖片1
 將Cmos image sensor上的color router的顯微鏡影像與物鏡點擴散函數做解卷積得到近場的能量分布
-![圖片1](HSI_deconv/picture/figure1.png)
+![圖片1](picture/figure1.png)
 
 ### 圖片2
 將Bayer array的R、G、G、B的能量分別積分算得各個通道的穿透率
-![圖片2](HSI_deconv/picture/figure2.png)
+![圖片2](picture/figure2.png)
 
 ### 圖片3
-![圖片3](HSI_deconv/picture/figure3.png)
+![圖片3](picture/figure3.png)
 
 ## 環境
 - Python 3.7
